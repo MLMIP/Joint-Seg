@@ -23,7 +23,7 @@ configs.channel = 3
 configs.batch_size = 2
 configs.patch_size = None
 configs.rotate = None
-configs.resize = None if configs.dataset_name == 'OCTA_3M' else None
+configs.resize = None 
 configs.centercrop = None
 configs.init_lr = 1e-4
 configs.weight_decay = 1e-4
