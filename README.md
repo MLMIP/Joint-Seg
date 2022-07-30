@@ -1,4 +1,4 @@
-# Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task 【[IEEEXplore](https://ieeexplore.ieee.org/document/9837090)】
+# Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task 【[IEEE TIM](https://ieeexplore.ieee.org/document/9837090)】
 
 ![](Joint-Seg.png)
 
@@ -10,9 +10,9 @@ If you find this repository helpful, please consider citing:
   journal={IEEE Transactions on Instrumentation and Measurement}, 
   title={Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task}, 
   year={2022},
-  volume={},
+  volume={71},
   number={},
-  pages={1-1},
+  pages={1-13},
   doi={10.1109/TIM.2022.3193188}
 }
 ```
