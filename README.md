@@ -14,9 +14,10 @@ or
 @article{hu2022joint,
   title={Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task},
   author={Hu, Kai and Jiang, Shuai and Zhang, Yuan and Li, Xuanya and Gao, Xieping},
-  journal={IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT},
+  journal={IEEE Transactions on Instrumentation and Measurement},
   volume={71},
-  pages={4007113},
-  year={2022}
+  pages={1--13},
+  year={2022},
+  publisher={IEEE}
 }
 ```
