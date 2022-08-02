@@ -11,14 +11,12 @@ K. Hu, S. Jiang, Y. Zhang, X. Li and X. Gao, "Joint-Seg: Treat Foveal Avascular 
 ```
 or
 ```
-@ARTICLE{9837090,
+@article{hu2022joint,
+  title={Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task},
   author={Hu, Kai and Jiang, Shuai and Zhang, Yuan and Li, Xuanya and Gao, Xieping},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={Joint-Seg: Treat Foveal Avascular Zone and Retinal Vessel Segmentation in OCTA Images as a Joint Task}, 
-  year={2022},
+  journal={IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT},
   volume={71},
-  number={},
-  pages={1-13},
-  doi={10.1109/TIM.2022.3193188}
+  pages={4007113},
+  year={2022}
 }
 ```
