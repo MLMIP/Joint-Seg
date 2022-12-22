@@ -19,16 +19,6 @@ def mkdir(path):
     else:
         return False
 
-def get_feature_maps(feats, layer):
-    path = '/home/rtx3090/storage/student1/svyj/Projects/OCTA/JointSeg_SharingEncoder/OCTA-500/feats'
-    feats_arr = feats.cpu().numpy()
-    # print(feats_arr.shape)
-    for i in range(feats_arr.shape[1]):
-        feat = feats_arr[0][i]
-        feat_img = np.array(feat * 255, np.uint8)
-        # print(feat_img.shape)
-        cv2.imwrite(path + '/{}/{}.png'.format(layer, i), feat_img)
-
 def get_results(configs, viz, logger, auc_lst, acc_lst, sen_lst, spe_lst, iou_lst, dice_lst, jac_lst, dataloader, results_save_dir, pred, gt, isSave, type):
     
     pred_arr = pred.squeeze().cpu().numpy()
